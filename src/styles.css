@@ -57,10 +57,10 @@ header.masthead {
     linear,
     left bottom,
     left top,
-    from(#ff6a00),
-    to(#ee0979)
+    from(#fbff00),
+    to(#ee094e)
   );
-  background: linear-gradient(0deg, #ff6a00 0%, #ee0979 100%);
+  background: linear-gradient(0deg, #ffd00023 0%, #09ccee80 100%);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: scroll;
